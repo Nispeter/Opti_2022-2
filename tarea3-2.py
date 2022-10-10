@@ -46,7 +46,7 @@ b = []                  #due time
 t = []                  #service time   
 
 #nombre del archivo (cambiar para alternar entre instancias )
-file_name = HOMBERGER_C1_2_1
+file_name = HOMBERGEa_C1_4_1
 max_vehicle  = file_name['v_num']   #cantidad de vehiculos
 q = file_name['capacity']           #capacidad de vehiculos 
 
